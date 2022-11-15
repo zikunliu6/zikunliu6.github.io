@@ -139,7 +139,7 @@ span.highlight {
 dl {
   width: 100%;
   overflow: hidden;
-  padding: 10;
+  padding: 0;
   margin: 10
 }
 dt {
