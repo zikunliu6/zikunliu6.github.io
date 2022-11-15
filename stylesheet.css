@@ -144,7 +144,7 @@ dl {
 }
 dt {
   float: left;
-  width: 12%;
+  width: 20%;
   /* adjust the width; make sure the total of both is 100% */
   padding: 0;
   margin: 0;
@@ -152,7 +152,7 @@ dt {
 }
 dd {
   float: left;
-  width: 88%;
+  width: 80%;
   /* adjust the width; make sure the total of both is 100% */
   padding: 0;
   margin: 0
