@@ -129,3 +129,31 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+/*dl {
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-auto-columns: 1fr;
+    grid-auto-flow: column;
+}*/
+dl {
+  width: 100%;
+  overflow: hidden;
+  padding: 10;
+  margin: 10
+}
+dt {
+  float: left;
+  width: 12%;
+  /* adjust the width; make sure the total of both is 100% */
+  padding: 0;
+  margin: 0;
+  clear: left
+}
+dd {
+  float: left;
+  width: 88%;
+  /* adjust the width; make sure the total of both is 100% */
+  padding: 0;
+  margin: 0
+}
